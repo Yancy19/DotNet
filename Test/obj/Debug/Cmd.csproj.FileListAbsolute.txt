@@ -1,0 +1,12 @@
+D:\project\DotNet\Test\bin\Debug\cmd.exe.config
+D:\project\DotNet\Test\bin\Debug\Cmd.exe
+D:\project\DotNet\Test\bin\Debug\Cmd.pdb
+D:\project\DotNet\Test\obj\Debug\Cmd.exe
+D:\project\DotNet\Test\obj\Debug\Cmd.pdb
+D:\project\DotNet\Test\bin\Debug\WebHttp_CL.dll
+D:\project\DotNet\Test\bin\Debug\Newtonsoft.Json.dll
+D:\project\DotNet\Test\bin\Debug\WebHttp_CL.pdb
+D:\project\DotNet\Test\bin\Debug\Newtonsoft.Json.xml
+D:\project\DotNet\Test\obj\Debug\Cmd.csprojResolveAssemblyReference.cache
+D:\project\DotNet\Test\bin\Debug\Tools_CL.dll
+D:\project\DotNet\Test\bin\Debug\Tools_CL.pdb

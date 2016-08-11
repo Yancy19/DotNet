@@ -1,0 +1,17 @@
+D:\Test\ConsoleApplication1\Test\bin\Debug\Test.exe.config
+D:\Test\ConsoleApplication1\Test\bin\Debug\Test.exe
+D:\Test\ConsoleApplication1\Test\bin\Debug\Test.pdb
+D:\Test\ConsoleApplication1\Test\obj\Debug\Test.exe
+D:\Test\ConsoleApplication1\Test\obj\Debug\Test.pdb
+D:\project\DotNet\ConsoleApplication1\Test\bin\Debug\Test.exe.config
+D:\project\DotNet\ConsoleApplication1\Test\bin\Debug\Test.exe
+D:\project\DotNet\ConsoleApplication1\Test\bin\Debug\Test.pdb
+D:\project\DotNet\ConsoleApplication1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\project\DotNet\ConsoleApplication1\Test\obj\Debug\Test.exe
+D:\project\DotNet\ConsoleApplication1\Test\obj\Debug\Test.pdb
+D:\project\DotNet\Test\bin\Debug\Test.exe.config
+D:\project\DotNet\Test\bin\Debug\Test.exe
+D:\project\DotNet\Test\bin\Debug\Test.pdb
+D:\project\DotNet\Test\obj\Debug\Test.exe
+D:\project\DotNet\Test\obj\Debug\Test.pdb
+D:\project\DotNet\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

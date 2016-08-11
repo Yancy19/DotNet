@@ -1,0 +1,4 @@
+D:\project\DotNet\Tools\bin\Debug\Tools_CL.dll
+D:\project\DotNet\Tools\bin\Debug\Tools_CL.pdb
+D:\project\DotNet\Tools\obj\Debug\Tools_CL.dll
+D:\project\DotNet\Tools\obj\Debug\Tools_CL.pdb

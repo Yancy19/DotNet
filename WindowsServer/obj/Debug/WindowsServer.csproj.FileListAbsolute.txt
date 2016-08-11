@@ -1,0 +1,16 @@
+D:\Test\ConsoleApplication1\WindowsServer\bin\Debug\WindowsServer.exe.config
+D:\Test\ConsoleApplication1\WindowsServer\bin\Debug\WindowsServer.exe
+D:\Test\ConsoleApplication1\WindowsServer\bin\Debug\WindowsServer.pdb
+D:\Test\ConsoleApplication1\WindowsServer\obj\Debug\WindowsServer.exe
+D:\Test\ConsoleApplication1\WindowsServer\obj\Debug\WindowsServer.pdb
+D:\project\DotNet\ConsoleApplication1\WindowsServer\bin\Debug\WindowsServer.exe.config
+D:\project\DotNet\ConsoleApplication1\WindowsServer\obj\Debug\WindowsServer.exe
+D:\project\DotNet\ConsoleApplication1\WindowsServer\obj\Debug\WindowsServer.pdb
+D:\project\DotNet\ConsoleApplication1\WindowsServer\bin\Debug\WindowsServer.exe
+D:\project\DotNet\ConsoleApplication1\WindowsServer\bin\Debug\WindowsServer.pdb
+D:\project\DotNet\ConsoleApplication1\WindowsServer\obj\Debug\WindowsServer.csprojResolveAssemblyReference.cache
+D:\project\DotNet\WindowsServer\bin\Debug\WindowsServer.exe.config
+D:\project\DotNet\WindowsServer\obj\Debug\WindowsServer.exe
+D:\project\DotNet\WindowsServer\obj\Debug\WindowsServer.pdb
+D:\project\DotNet\WindowsServer\bin\Debug\WindowsServer.exe
+D:\project\DotNet\WindowsServer\bin\Debug\WindowsServer.pdb

@@ -1,0 +1,6 @@
+D:\project\DotNet\WebHttp\bin\Debug\WebHttp.dll
+D:\project\DotNet\WebHttp\bin\Debug\WebHttp.pdb
+D:\project\DotNet\WebHttp\bin\Debug\Newtonsoft.Json.dll
+D:\project\DotNet\WebHttp\bin\Debug\Newtonsoft.Json.xml
+D:\project\DotNet\WebHttp\obj\Debug\WebHttp.dll
+D:\project\DotNet\WebHttp\obj\Debug\WebHttp.pdb
