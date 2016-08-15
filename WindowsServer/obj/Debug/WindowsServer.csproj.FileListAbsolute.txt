@@ -14,3 +14,4 @@ D:\project\DotNet\WindowsServer\obj\Debug\WindowsServer.exe
 D:\project\DotNet\WindowsServer\obj\Debug\WindowsServer.pdb
 D:\project\DotNet\WindowsServer\bin\Debug\WindowsServer.exe
 D:\project\DotNet\WindowsServer\bin\Debug\WindowsServer.pdb
+D:\project\DotNet\WindowsServer\obj\Debug\WindowsServer.csprojResolveAssemblyReference.cache

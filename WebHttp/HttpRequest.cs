@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Collections.Specialized;
 using System.IO;
 using System.Net;
+using System.Text;
 
 namespace WebHttp_CL
 {
@@ -46,8 +48,9 @@ namespace WebHttp_CL
                 string returnVal = string.Empty;
                 HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
                 request.Method = "POST";
-                request.ContentType = "application/json; charset=UTF-8";//"text/json;charset=UTF-8"
-                request.Accept = "application/json";
+                //request.ContentType = "application/json; charset=UTF-8";//"text/json;charset=UTF-8"
+                request.ContentType = "text/json;charset=UTF-8";//
+                //request.Accept = "application/json";
                 {
                     //方法一
                     using (var streamWriter = new StreamWriter(request.GetRequestStream()))
@@ -88,5 +91,50 @@ namespace WebHttp_CL
             }
         }
 
+        //public static string HttpPostByJson(string url, string postData)
+        //{
+        //    try
+        //    {
+        //        if (null == postData)
+        //        {
+        //            postData = "";
+        //        }
+        //        //request
+        //        string returnVal = string.Empty;
+        //        using (var client = new WebClient())
+        //        {
+        //            var values = new NameValueCollection();
+        //            values["thing1"] = "hello";
+        //            values["thing2"] = "world";
+
+        //            var response = client.UploadValues("http://www.example.com/recepticle.aspx", values);
+
+        //            var responseString = Encoding.Default.GetString(response);
+        //        }
+
+
+        //        //response
+        //        HttpWebResponse response;
+        //        try
+        //        {
+        //            response = (HttpWebResponse)request.GetResponse();
+        //        }
+        //        catch (WebException ex)
+        //        {
+        //            response = (HttpWebResponse)ex.Response;
+        //        }
+        //        using (StreamReader sr = new StreamReader(response.GetResponseStream(), System.Text.Encoding.UTF8))
+        //        {
+        //            returnVal = sr.ReadToEnd();
+        //            sr.Close();
+        //            response.Close();
+        //        }
+        //        return returnVal;
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        throw new Exception(ex.Message);
+        //    }
+        //}
     }
 }

@@ -17,3 +17,4 @@ D:\project\DotNet\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\project\DotNet\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\project\DotNet\Web\obj\Debug\Web.dll
 D:\project\DotNet\Web\obj\Debug\Web.pdb
+D:\project\DotNet\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
